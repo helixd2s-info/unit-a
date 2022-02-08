@@ -17,3 +17,11 @@ Reserved Personal Project
 
 - [⚠️] Может быть много недостоверной, кринжовой или зашкварной информации...
 - [💡] Значит есть какая-то интересная идея...
+
+### Nicknames Include
+
+- Some "helixd" alike nicknames (except "helixd2s" family)
+- "helixd" that contain year with letter (`2&##`, where `&` is letter, `##` is number).
+- "acterhd" or similar. 
+- "capitalknew" or similar.
+- "rd2mod", used rarely.
