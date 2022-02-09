@@ -4,15 +4,15 @@ Reserved Personal Project
 
 ### Links
 
-- https://github.com/helixd2s/unit-a (reserved)
-- https://github.com/helixd2s/core (docs)
-- https://github.com/unit-a-user (account)
+- 🥀 https://github.com/helixd2s/unit-a (reserved)
+- 🥀 https://github.com/helixd2s/core (docs)
+- 🥀 https://github.com/unit-a-user (account)
 
 ### Shared
 
-- [Моя личность](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-person.md) ⚠️
-- [Мои ответы на некоторые вопросы](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-interview.md) ⚠️
-- [Наше мировоззрение](https://github.com/helixd2s/core/blob/main/docs/concept/core.md) ⚠️
+- ⚠️ [Моя личность](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-person.md)
+- ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-interview.md)
+- ⚠️ [Наше мировоззрение](https://github.com/helixd2s/core/blob/main/docs/concept/core.md)
 
 ### Signs
 
