@@ -22,8 +22,7 @@ Reserved Personal Project
 
 ### Nicknames Include
 
-- Some "helixd" alike nicknames (except "helixd2s" family)
-- "helixd" that contain year with letter (`2&##`, where `&` is letter, `##` is number).
-- "acterhd" or similar. 
-- "capitalknew" or similar.
-- "rd2mod", "r2dmod", used rarely.
+- Some `helixd` alike nicknames (except `helixd2s` family)
+- `helixd` that contain year with letter (`2&##`, where `&` is letter, `##` is number).
+- `acterhd`, `capitalknew` or similar.
+- `rd2mod`, `r2dmod` or similar, used rarely.
