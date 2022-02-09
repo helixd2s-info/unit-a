@@ -5,7 +5,7 @@ Reserved Personal Project
 ### Links
 
 - 🥀 https://github.com/helixd2s/unit-a (reserved)
-- 🥀 https://github.com/helixd2s/core (docs)
+- 🥀 https://github.com/helixd2s/about (docs)
 - 🥀 https://github.com/unit-a-user (account)
 
 ### Shared
