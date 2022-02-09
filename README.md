@@ -1,8 +1,8 @@
 # Unit-A
 
-  Reserved Personal Project
-  
 ### Please, follow to: ➡️ [https://github.com/helixd2s/about](https://github.com/helixd2s/about) ⬅️
+
+  Reserved for personal project about me...
 
 ### Links
 
