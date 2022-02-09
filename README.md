@@ -18,9 +18,9 @@
 
   Вы также можете совершить ваш дополнительный вклад, текущие адреса в данный момент: 
 
-  - Ethereum: `0x4c57bd62bee3f445b19f649dd050a3cb4d78b0d8`
-  - Bitcoin: `3AChWBKBBVCU7zedoyuq6RZyzCpj76WYhL`
-  - DOGE: `DJj8gFEqdmsZ67txDFAfYWvdQuBtyHtRsR`
+  - 🪙 Ethereum: `0x4c57bd62bee3f445b19f649dd050a3cb4d78b0d8`
+  - 🪙 Bitcoin: `3AChWBKBBVCU7zedoyuq6RZyzCpj76WYhL`
+  - 🪙 DOGE: `DJj8gFEqdmsZ67txDFAfYWvdQuBtyHtRsR`
 
   Это своего рода пожертвование, донат (проект "BHBP").
 
