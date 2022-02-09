@@ -14,6 +14,13 @@ Reserved Personal Project
 - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-interview.md)
 - ⚠️ [Наше мировоззрение](https://github.com/helixd2s/core/blob/main/docs/concept/core.md)
 
+Вы также можете совершить ваш дополнительный вклад, текущие адреса в данный момент:
+
+Ethereum: 0x4c57bd62bee3f445b19f649dd050a3cb4d78b0d8
+Bitcoin: 3AChWBKBBVCU7zedoyuq6RZyzCpj76WYhL
+DOGE: DJj8gFEqdmsZ67txDFAfYWvdQuBtyHtRsR
+Это своего рода пожертвование, донат (проект "BHBP").
+
 ### Signs
 
 - [🥀] Ничего особенного... 
