@@ -26,4 +26,4 @@ Reserved Personal Project
 - "helixd" that contain year with letter (`2&##`, where `&` is letter, `##` is number).
 - "acterhd" or similar. 
 - "capitalknew" or similar.
-- "rd2mod", used rarely.
+- "rd2mod", "r2dmod", used rarely.
