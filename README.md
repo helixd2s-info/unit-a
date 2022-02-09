@@ -12,9 +12,9 @@
 
 ### Shared
 
-  - ⚠️ [Моя личность](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-person.md)
-  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/core/blob/main/docs/unit-a/unit-a-interview.md)
-  - ⚠️ [Наше мировоззрение](https://github.com/helixd2s/core/blob/main/docs/concept/core.md)
+  - ⚠️ [Моя личность](https://github.com/helixd2s/about/blob/main/docs/unit-a/unit-a-person.md)
+  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/about/blob/main/docs/unit-a/unit-a-interview.md)
+  - ⚠️ [Наше мировоззрение](https://github.com/helixd2s/about/blob/main/docs/concept/core.md)
 
   Вы также можете совершить ваш дополнительный вклад, текущие адреса в данный момент: 
 
