@@ -4,13 +4,23 @@
 
   Reserved for personal project about me...
 
-### Links
 
-  - 👑 https://github.com/helixd2s/about (docs)
+## Ссылки коллектива
+
+  - 👑 [GitHub, документация](https://github.com/helixd2s/about)
+  - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
+  - 🥀 [Наш Discord сервер](https://discord.gg/v7swDye99z) 
+  - 🥀 [VK паблик](https://vk.com/helixd2s)
+  - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
+
+
+## Ссылки/Links личности
+
+  - 🥀 https://github.com/unit-a-user (Github profile)
   - 🥀 https://github.com/helixd2s/unit-a (reserved)
-  - 🥀 https://github.com/unit-a-user (account)
-  - 🥀 https://vk.com/unit_a_user (VK)
+  - 🥀 https://vk.com/unit_a_user (VK profile)
   - 🥀 http://unit-a.helixd2s.su/ (website)
+
 
 ### Shared
 
