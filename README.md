@@ -5,7 +5,7 @@
   Reserved for personal project about me...
 
 
-## Ссылки коллектива
+## Ссылки/Links коллектива
 
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
   - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
