@@ -9,8 +9,8 @@
   - 👑 https://github.com/helixd2s/about (docs)
   - 🥀 https://github.com/helixd2s/unit-a (reserved)
   - 🥀 https://github.com/unit-a-user (account)
-  - 🥀 http://unit-a.helixd2s.su/ (website)
   - 🥀 https://vk.com/unit_a_user (VK)
+  - 🥀 http://unit-a.helixd2s.su/ (website)
 
 ### Shared
 
