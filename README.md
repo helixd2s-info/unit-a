@@ -14,10 +14,10 @@
 
 ### Shared
 
-  - 💡 [Идеи законов и прав в нашей стране](https://github.com/helixd2s/about/blob/main/docs/government/russian-zakon.md)
   - ⚠️ [Моя личность](https://github.com/helixd2s/about/blob/main/docs/unit-a/personal.md)
   - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/about/blob/main/docs/unit-a/interview.md)
   - ⚠️ [Моё мировоззрение](https://github.com/helixd2s/about/blob/main/docs/unit-a/core.md)
+  - 💡 [Идеи законов и прав в нашей стране](https://github.com/helixd2s/about/blob/main/docs/government/russian-zakon.md)
 
   Вы также можете совершить ваш дополнительный вклад, текущие адреса в данный момент: 
 
