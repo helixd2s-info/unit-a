@@ -26,22 +26,12 @@
   
   И знайте... Я, Z, V === 卐!
 
-## Ссылки/Links коллектива
-
-  - 👑 [GitHub, документация](https://github.com/helixd2s/about)
-  - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
-  - 🥀 [Наш Discord сервер](https://discord.gg/v7swDye99z) 
-  - 🥀 [VK паблик](https://vk.com/helixd2s)
-  - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
-  - 🥂 [Телега...](https://t.me/helixd2s)
-
 ## Ссылки/Links личности
 
   - 🥀 https://github.com/unit-a-user (Github profile)
   - 🥀 https://github.com/helixd2s/unit-a (reserved)
   - 🥀 https://vk.com/unit_a_user (VK profile)
   - 🥀 http://unit-a.helixd2s.su/ (website)
-
 
 ## Общее/Shared
 
@@ -61,6 +51,14 @@
   Можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑 (пока что).<br/>
   Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru` (с `6 августа, 2022 года`).<br/>
 
+## Ссылки/Links коллектива
+
+  - 👑 [GitHub, документация](https://github.com/helixd2s/about)
+  - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
+  - 🥀 [Наш Discord сервер](https://discord.gg/v7swDye99z) 
+  - 🥀 [VK паблик](https://vk.com/helixd2s)
+  - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
+  - 🥂 [Телега...](https://t.me/helixd2s)
 
 ## Signs (значки), их возможное значение…
 
