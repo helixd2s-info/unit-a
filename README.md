@@ -24,7 +24,7 @@
   - https://www.youtube.com/c/ВестникБури
   - https://www.youtube.com/c/maxkatz1
   
-  И знайте... Я, Z, V === 卐!
+  И знайте... Я, Z, V ≡ 卐!
 
 ## Ссылки/Links личности
 
