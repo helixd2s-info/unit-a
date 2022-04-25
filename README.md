@@ -49,10 +49,8 @@
 
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
   - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
-  - 🥀 [Наш Discord сервер](https://discord.gg/v7swDye99z) 
   - 🥀 [VK паблик](https://vk.com/helixd2s)
   - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
-  - 🥂 [Телега...](https://t.me/helixd2s)
 
 ## Signs (значки), их возможное значение…
 
