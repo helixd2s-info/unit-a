@@ -29,7 +29,6 @@
 
 ## 📑 Контактные данные коллектива… 📑
 
-  - **Discord сообщество:** [https://discord.gg/DknnGbCweS](https://discord.gg/DknnGbCweS)
   - **Github о нас:** [https://github.com/helixd2s/about](https://github.com/helixd2s/about)
   - **Группа ВК:** [https://vk.com/helixd2s](https://vk.com/helixd2s)
   - **Сайт:** [http://about.helixd2s.su/](http://about.helixd2s.su/)
