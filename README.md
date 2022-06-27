@@ -30,8 +30,8 @@
   - 👑 [Моя личность, психология и психика](docs/unit-a/personal.md) 
   - ⚠️ [Мои ответы на некоторые вопросы](docs/unit-a/interview.md) 
   - ⚠️ [Моё мировоззрение и концепция](docs/unit-a/core.md)
-  - 💡 [Идеи законов и прав в нашей стране](https://github.com/helixd2s/about/blob/main/docs/government/russian-zakon.md)
-
+  - 💡 [Проект по борьбе с фашизмом](https://github.com/helixd2s/about/blob/main/docs/anti-fascism.md) 
+  
 ## Ссылки/Links коллектива
 
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
